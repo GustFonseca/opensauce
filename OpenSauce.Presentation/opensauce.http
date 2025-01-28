@@ -1,0 +1,6 @@
+@opensauce_HostAddress = http://localhost:5021
+
+GET {{opensauce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
