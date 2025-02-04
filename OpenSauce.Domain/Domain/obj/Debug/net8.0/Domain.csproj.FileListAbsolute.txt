@@ -1,0 +1,12 @@
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/bin/Debug/net8.0/Domain.dll
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/bin/Debug/net8.0/Domain.pdb
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/Domain.dll
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/Domain.pdb
+/home/gustavo/Documents/Projetos/opensauce/opensauce/OpenSauce.Domain/Domain/obj/Debug/net8.0/ref/Domain.dll
